@@ -72,7 +72,7 @@ books_data.json
 
 ---
 
-### 👨‍💻 Member 2 — إدارة المستخدمين
+### 👨‍💻 Member 2 — إدارة المستخدمين Akram Luqman
 
 المجلد:
 
@@ -167,7 +167,7 @@ python main.py
 members/member1/books_data.json
 ```
 
-### بيانات المستخدمين
+### بيانات المستخدمين Akram Luqman
 
 ```text
 members/member2/users_data.json
@@ -333,3 +333,13 @@ v1.0
 - حفظ بيانات الإعارة في ملف JSON.
 - عرض إعارات المستخدم.
 - إرجاع كتاب.
+
+</div>
+
+<div align="center">
+
+# أكرم عبدالكريم علي لقمان
+
+### ⭐ Linux • Bash • AI Infrastructure ⭐
+
+</div>
