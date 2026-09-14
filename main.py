@@ -19,8 +19,7 @@ from members.member3.loans import (
 )
 
 
-def show_menu():
-    """عرض القائمة الرئيسية. لنظام ادارة المكتبة"""
+def show_menu():    """ عرض المهام لبرنامج ادارة المكاتب"""
     print("\n" + "=" * 40)
     print("       قائمة عرض المهام ")
     print("=" * 40)
