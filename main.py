@@ -22,7 +22,7 @@ from members.member3.loans import (
 def show_menu():
     """عرض القائمة الرئيسية."""
     print("\n" + "=" * 40)
-    print("        نظام إدارة المكتبة")
+    print("       قائمة عرض المهام ")
     print("=" * 40)
 
     print("1. إدارة الكتب")
