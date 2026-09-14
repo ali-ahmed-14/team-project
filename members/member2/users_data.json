@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Ahmed",
+        "email": "ali-ahmed-14@example.com",
+        "phone": "777123456"
+    },
+    {
+        "id": 2,
+        "name": "Taha Fouad",
+        "email": "taha-fouad@example.com",
+        "phone": "777987654"
+    },
+    {
+        "id": 3,
+        "name": "Akram Luqman",
+        "email": "akram-luqman@example.com",
+        "phone": "777987654"
+    }
+
+]
