@@ -20,7 +20,7 @@ from members.member3.loans import (
 
 
 def show_menu():
-    """عرض القائمة الرئيسية."""
+    """عرض القائمة الرئيسية. لنظام ادارة المكتبة"""
     print("\n" + "=" * 40)
     print("        نظام إدارة المكتبة")
     print("=" * 40)
@@ -149,22 +149,19 @@ def loans_menu():
 def main():
         choice = input("اختر العملية: ").strip()
 
-
+        if choice == "1":
+            add_user()
         elif choice == "2":
             users_menu()
         elif choice == "3":
             loans_menu()
 
         elif choice == "0":
-            break
+            print("\n👋 شكراً لاستخدام نظام المكتبة.")
 
         else:
             print("❌ اختيار غير صحيح.")
 
 
 if __name__ == "__main__":
-    main()            print("\n👋 شكراً لاستخدام نظام المكتبة.")
-
-            books_menu()
-        if choice == "1":
-
+    main()            
